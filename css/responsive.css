@@ -1,0 +1,20 @@
+@media all and (max-width: 575px) {
+    .menubar-area ul {
+        display: block;
+    }
+    .banner-area {
+        padding: 60px 10px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .recipies-area {
+        padding: 60px 0px;
+    }
+    .recipies-item {
+        margin-bottom: 15px;
+    }
+    .counter-area {
+        padding: 40px 10px;
+    }
+}
